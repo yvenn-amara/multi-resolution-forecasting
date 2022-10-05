@@ -17,9 +17,9 @@ This repository contains all codes produced for the experiments detailed in our 
 
 "1. Sample Code" contains all the R and Python scripts used for preparing data, training models and producing forecasts
 Within this folder:
-* [1. Data](./1.%20Data) contains the prepared data and 
-* *2. Pred Signals* is a placeholder for predections, model weights, and other files generated during the analysis
-* *3. Plots* is a placeholder for visualisations produced along the code
+* [1. Data](./1.%20Sample Code/1.%20Data) contains the prepared data and 
+* [2. Pred Signals](./1.%20Sample Code/2.%20Pred Signals) is a placeholder for predections, model weights, and other files generated during the analysis
+* [3. Plots](./1.%20Sample Code/3.%20Plots) is a placeholder for visualisations produced along the code
 
 Please note that to make the repository as efficient as possible we have removed the datasets that are created throughout the code.
 To make sure the codes run properly please do not forget to uncomment commands in the codes such as the following:
