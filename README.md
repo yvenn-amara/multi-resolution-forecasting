@@ -17,9 +17,9 @@ This repository contains all codes produced for the experiments detailed in our 
 
 "1. Sample Code" contains all the R and Python scripts used for preparing data, training models and producing forecasts
 Within this folder:
-* "1. Data" contains the prepared data and 
-* "2. Pred Signals" is a placeholder for predections, model weights, and other files generated during the analysis
-* "3. Plots" is a placeholder for visualisations produced along the code
+* *1. Data* contains the prepared data and 
+* *2. Pred Signals* is a placeholder for predections, model weights, and other files generated during the analysis
+* *3. Plots* is a placeholder for visualisations produced along the code
 
 Please note that to make the repository as efficient as possible we have removed the datasets that are created throughout the code.
 To make sure the codes run properly please do not forget to uncomment commands in the codes such as the following:
@@ -34,9 +34,7 @@ The multi-resolution approach is illustrated for two main classes of models:
 * Generalised Additive Models (GAM)
 * Neural Networks (NN)
 
-GAM are 
-
-#### R:
+In our work, GAM are built in R and NN in Python.
 
 * R packages
 
@@ -84,11 +82,11 @@ pip install warnings
 
 ## Main advantages
 
--More accurate
-![AIC comparison between low-resolution and multi-resolution approaches](./1. Sample Code/3. Plots/parsimony.png)
+* More accurate
+![AIC comparison between low-resolution and multi-resolution approaches]("./1. Sample Code/3. Plots/parsimony.png")
 
--More parsimonious
-![RMSE block-bootstrap performances for peak timing](./1. Sample Code/3. Plots/RMSE.png)
+* More parsimonious
+![RMSE block-bootstrap performances for peak timing]("./1. Sample Code/3. Plots/RMSE.png")
 
 
 ## Author
