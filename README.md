@@ -83,10 +83,10 @@ pip install warnings
 ## Main advantages
 
 * More accurate
-![AIC comparison between low-resolution and multi-resolution approaches]("./1. Sample Code/3. Plots/parsimony.png")
+![AIC comparison between low-resolution and multi-resolution approaches](parsimony.png)
 
 * More parsimonious
-![RMSE block-bootstrap performances for peak timing]("./1. Sample Code/3. Plots/RMSE.png")
+![RMSE block-bootstrap performances for peak timing](RMSE.png)
 
 
 ## Author
