@@ -6,8 +6,7 @@ The modelling approach proposed leverages high-resolution and low-resolution inf
 
 A thorough walkthrough of the proposed approach is detailed in the following publication:
 
-* **Yvenn Amara-Ouali, Matteo Fasiolo, Yannig Goude, Hui Yan** - *Daily peak electrical load forecasting with a multi-resolution approach* (2022) - [International Journal of Forecasting](https://doi.org/10.1016/j.ijforecast.2022.06.001.
-(https://www.sciencedirect.com/science/article/pii/S0169207022000929)
+* **Yvenn Amara-Ouali, Matteo Fasiolo, Yannig Goude, Hui Yan** - *Daily peak electrical load forecasting with a multi-resolution approach* (2022) - [International Journal of Forecasting](https://doi.org/10.1016/j.ijforecast.2022.06.001)
 
 Keywords: Generalised additive models; Neural networks; Peak load forecasting; Smart grids; Automated feature engineering; Multi-resolution
 
@@ -15,7 +14,7 @@ Keywords: Generalised additive models; Neural networks; Peak load forecasting; S
 
 This repository contains all codes produced for the experiments detailed in our paper. 
 
-"1. Sample Code" contains all the R and Python scripts used for preparing data, training models and producing forecasts
+[1. Sample Code](./1.%20Sample%20Code) contains all the R and Python scripts used for preparing data, training models and producing forecasts
 Within this folder:
 * [1. Data](./1.%20Sample%20Code/1.%20Data) contains the prepared data and 
 * [2. Pred Signals](./1.%20Sample%20Code/2.%20Pred%20Signals) is a placeholder for predections, model weights, and other files generated during the analysis
