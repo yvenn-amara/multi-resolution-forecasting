@@ -1,7 +1,7 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Multi-Resolution Forecasting</h3>
+  <h1 align="center">Multi-Resolution Forecasting</h1>
 
   <p align="center">
     A method to forecast peak magnitude and timing by leveraging information at different time resolutions.
