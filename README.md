@@ -1,4 +1,32 @@
-# Multi-Resolution Forecasting
+<br />
+<p align="center">
+
+  <h3 align="center">Multi-Resolution Forecasting</h3>
+
+  <p align="center">
+    A method to forecast peak magnitude and timing by leveraging information at different time resolutions.
+    <br />
+  </p>
+</p>
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#prerequisites">Prerequisites</a></li>
+    <li><a href="#main-advantages">Main advantages</a></li>    
+    <li><a href="#author">Author</a></li>
+    <li><a href="#license">License</a></li>
+  </ol>
+</details>
+
+
+
+# About the project
 
 We present a methodology to forecast (daily) peaks in terms of their magnitude and timing. 
 While our work is embedded in the context daily peak electrical load forecasting, the method proposed can be extended to any peak modelling problem so long as there is data available at a higher resolution than the timescale of the peak. 
